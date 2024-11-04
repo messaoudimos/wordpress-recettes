@@ -13,7 +13,7 @@ Ce projet est un site de recettes développé avec WordPress. Il utilise un thè
 ### Étapes
 1. Clonez ce dépôt dans le répertoire de votre serveur local :
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/wordpress-recettes.git
+   git clone https://github.com/messaoudimos/wordpress-recettes.git
 2. Déplacez les fichiers dans le dossier de votre serveur local (C:\wamp64\www\wordpress-recettes).
 3. Créez une base de données (par exemple, wordpress_recettes).
 4. Importez le fichier SQL dans phpMyAdmin.
